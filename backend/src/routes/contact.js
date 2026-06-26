@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const { sendMail, buildContactEmailHTML } = require('../utils/emailService');
 const Contact = require('../models/Contact');
-const saveToExcel = require('../services/excelservice');
+const saveToExcel = require('../services/excelService');
 
 router.post('/', async (req, res) => {
   const { name, email, brand, message } = req.body;

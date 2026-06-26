@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "brand": "Lenskart",
+    "title": "Style Your Vision Campaign",
+    "views": "4.2M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/1.mp4",
+    "category": "Eyewear"
+  },
+  {
+    "id": 2,
+    "brand": "OPPO",
+    "title": "Capture Every Moment",
+    "views": "7.8M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/2.mp4",
+    "category": "Tech"
+  },
+  {
+    "id": 3,
+    "brand": "Swiggy",
+    "title": "Craving Satisfied",
+    "views": "5.6M",
+    "duration": "0:20",
+    "thumbnail": "/videos/FeaturedVideos/3.mp4",
+    "category": "Food Delivery"
+  },
+  {
+    "id": 4,
+    "brand": "Foxtale",
+    "title": "Glow Everyday",
+    "views": "3.4M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/4.mp4",
+    "category": "Beauty"
+  },
+  {
+    "id": 5,
+    "brand": "Everteen",
+    "title": "Hygiene First",
+    "views": "2.8M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/5.mp4",
+    "category": "Wellness"
+  },
+  {
+    "id": 6,
+    "brand": "Amazon",
+    "title": "Deliver Happiness",
+    "views": "12.4M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/6.mp4",
+    "category": "E-commerce"
+  },
+  {
+    "id": 7,
+    "brand": "Avimee Herbal",
+    "title": "Nature's Care",
+    "views": "1.9M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/7.mp4",
+    "category": "Haircare"
+  },
+  {
+    "id": 8,
+    "brand": "Bioderma",
+    "title": "Sensibio Protection",
+    "views": "3.1M",
+    "duration": "0:20",
+    "thumbnail": "/videos/FeaturedVideos/8.mp4",
+    "category": "Skincare"
+  },
+  {
+    "id": 9,
+    "brand": "Carbamide Forte",
+    "title": "Pure Nutrition Journey",
+    "views": "2.1M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/9.mp4",
+    "category": "Health"
+  },
+  {
+    "id": 10,
+    "brand": "Country Delight",
+    "title": "Freshness Delivered",
+    "views": "6.2M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/10.mp4",
+    "category": "Dairy"
+  },
+  {
+    "id": 11,
+    "brand": "Neud",
+    "title": "Natural Secrets",
+    "views": "1.5M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/11.mp4",
+    "category": "Personal Care"
+  },
+  {
+    "id": 12,
+    "brand": "ONN",
+    "title": "Active Comfort",
+    "views": "4.7M",
+    "duration": "0:20",
+    "thumbnail": "/videos/FeaturedVideos/12.mp4",
+    "category": "Apparel"
+  },
+  {
+    "id": 13,
+    "brand": "Pilgrim",
+    "title": "Secrets of Jeju Island",
+    "views": "5.3M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/13.mp4",
+    "category": "Beauty"
+  },
+  {
+    "id": 14,
+    "brand": "PLIX",
+    "title": "Plant-Based Nutrition",
+    "views": "3.8M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/14.mp4",
+    "category": "Wellness"
+  },
+  {
+    "id": 15,
+    "brand": "Suroskie",
+    "title": "Elegant Skincare",
+    "views": "2.4M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/15.mp4",
+    "category": "Cosmetics"
+  },
+  {
+    "id": 16,
+    "brand": "UBIQ",
+    "title": "Tech Innovation",
+    "views": "1.2M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/16.mp4",
+    "category": "Electronics"
+  },
+  {
+    "id": 17,
+    "brand": "Pure Nutritions",
+    "title": "Daily Vitality",
+    "views": "2.9M",
+    "duration": "0:15",
+    "thumbnail": "/videos/FeaturedVideos/17.mp4",
+    "category": "Supplements"
+  },
+  {
+    "id": 18,
+    "brand": "boAt",
+    "title": "Sound of the Streets",
+    "views": "9.3M",
+    "duration": "0:30",
+    "thumbnail": "/videos/FeaturedVideos/18.mp4",
+    "category": "Audio"
+  },
+  {
+    "id": 19,
+    "brand": "5:15 PM",
+    "title": "Unwind in Style",
+    "views": "3.7M",
+    "duration": "0:20",
+    "thumbnail": "/videos/FeaturedVideos/19.mp4",
+    "category": "Lifestyle"
+  }
+]

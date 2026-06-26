@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "brand": "Lenskart",
+    "category": "Eyewear",
+    "description": "A pan-India influencer campaign promoting Lenskart's new collection across Instagram and YouTube with micro and macro creators.",
+    "reach": "42M+",
+    "engagement": "8.4%",
+    "creators": 120,
+    "duration": "45 Days",
+    "image": "/images/campaign1.jpg",
+    "color": "#E85A06"
+  },
+  {
+    "id": 2,
+    "brand": "OPPO India",
+    "category": "Consumer Electronics",
+    "description": "Launched OPPO's flagship smartphone through tech reviewers and lifestyle influencers driving massive awareness and conversions.",
+    "reach": "68M+",
+    "engagement": "6.2%",
+    "creators": 85,
+    "duration": "30 Days",
+    "image": "/images/campaign2.jpg",
+    "color": "#2563EB"
+  },
+  {
+    "id": 3,
+    "brand": "Carbamide Forte",
+    "category": "Health & Wellness",
+    "description": "Drove supplement brand awareness with authentic storytelling from fitness and health content creators across India.",
+    "reach": "28M+",
+    "engagement": "11.3%",
+    "creators": 200,
+    "duration": "60 Days",
+    "image": "/images/campaign3.jpg",
+    "color": "#16A34A"
+  },
+  {
+    "id": 4,
+    "brand": "Nykaa",
+    "category": "Beauty & Fashion",
+    "description": "Partnered beauty influencers to showcase seasonal collections, driving record app downloads and product sales.",
+    "reach": "55M+",
+    "engagement": "9.8%",
+    "creators": 160,
+    "duration": "40 Days",
+    "image": "/images/campaign4.jpg",
+    "color": "#DB2777"
+  }
+]

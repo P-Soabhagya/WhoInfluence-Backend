@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "videoUrl": "/testimonialVideos/Testimonial-1.mp4",
+    "description": "This is a testimonial video from one of our satisfied customers."
+
+},
+{
+    "id": 2,
+    "videoUrl": "/testimonialVideos/Testimonial-2.mp4",
+    "description": "Hear what our customers have to say about our products and services."
+
+},
+{
+    "id": 3,
+    "videoUrl": "/testimonialVideos/Testimonial-3.mp4",
+    "description": "Real stories from real customers who have experienced the benefits of our offerings."
+},
+{
+    "id": 4,
+    "videoUrl": "/testimonialVideos/Testimonial-4.mp4",
+    "description": "Discover how our products have made a positive impact on our customers' lives."
+},
+{
+    "id": 5,
+    "videoUrl": "/testimonialVideos/Testimonial-5.mp4",
+    "description": "Listen to the experiences of our customers and how we have helped them achieve their goals."
+},
+{
+    "id": 6,
+    "videoUrl": "/testimonialVideos/Testimonial-6.mp4",
+    "description": "Discover how our products have made a positive impact on our customers' lives."
+}
+]

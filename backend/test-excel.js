@@ -1,4 +1,4 @@
-const saveToExcel = require('./src/services/excelservice');
+const saveToExcel = require('./src/services/excelService');
 
 async function test() {
   try {

@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const { sendMail, buildInfluencerEmailHTML } = require('../utils/emailService');
 const Influencer = require('../models/Influencer');
-const saveToExcel = require('../services/excelservice');
+const saveToExcel = require('../services/excelService');
 
 router.post('/', async (req, res) => {
   const { name, phone, email, socialLink, message } = req.body;

@@ -56,7 +56,7 @@ router.get('/', async (req, res) => {
         brand: v.brand,
         title: v.title,
         category: v.category || 'General',
-        videoUrl: v.thumbnail || '',
+        videoUrl: v.videoUrl || '',
         thumbnailUrl: '',
         views: v.views || '0 Views',
         duration: v.duration || '0:15',

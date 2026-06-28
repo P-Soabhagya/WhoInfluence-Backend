@@ -5,7 +5,8 @@
     "title": "Style Your Vision Campaign",
     "views": "4.2M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/1.mp4",
+    "videoUrl": "/videos/FeaturedVideos/1.mp4",
+    "thumbnailUrl":"",
     "category": "Eyewear"
   },
   {
@@ -14,7 +15,8 @@
     "title": "Capture Every Moment",
     "views": "7.8M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/2.mp4",
+    "videoUrl": "/videos/FeaturedVideos/2.mp4",
+    "thumbnailUrl":"",
     "category": "Tech"
   },
   {
@@ -23,7 +25,8 @@
     "title": "Craving Satisfied",
     "views": "5.6M",
     "duration": "0:20",
-    "thumbnail": "/videos/FeaturedVideos/3.mp4",
+    "videoUrl": "/videos/FeaturedVideos/3.mp4",
+    "thumbnailUrl":"",
     "category": "Food Delivery"
   },
   {
@@ -32,7 +35,8 @@
     "title": "Glow Everyday",
     "views": "3.4M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/4.mp4",
+    "videoUrl": "/videos/FeaturedVideos/4.mp4",
+    "thumbnailUrl":"",
     "category": "Beauty"
   },
   {
@@ -41,7 +45,8 @@
     "title": "Hygiene First",
     "views": "2.8M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/5.mp4",
+    "videoUrl": "/videos/FeaturedVideos/5.mp4",
+    "thumbnailUrl":"",
     "category": "Wellness"
   },
   {
@@ -50,7 +55,8 @@
     "title": "Deliver Happiness",
     "views": "12.4M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/6.mp4",
+    "videoUrl": "/videos/FeaturedVideos/6.mp4",
+    "thumbnailUrl":"",
     "category": "E-commerce"
   },
   {
@@ -59,7 +65,8 @@
     "title": "Nature's Care",
     "views": "1.9M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/7.mp4",
+    "videoUrl": "/videos/FeaturedVideos/7.mp4",
+    "thumbnailUrl":"",
     "category": "Haircare"
   },
   {
@@ -68,7 +75,8 @@
     "title": "Sensibio Protection",
     "views": "3.1M",
     "duration": "0:20",
-    "thumbnail": "/videos/FeaturedVideos/8.mp4",
+    "videoUrl": "/videos/FeaturedVideos/8.mp4",
+    "thumbnailUrl":"",
     "category": "Skincare"
   },
   {
@@ -77,7 +85,8 @@
     "title": "Pure Nutrition Journey",
     "views": "2.1M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/9.mp4",
+    "videoUrl": "/videos/FeaturedVideos/9.mp4",
+    "thumbnailUrl":"",
     "category": "Health"
   },
   {
@@ -86,7 +95,8 @@
     "title": "Freshness Delivered",
     "views": "6.2M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/10.mp4",
+    "videoUrl": "/videos/FeaturedVideos/10.mp4",
+    "thumbnailUrl":"",
     "category": "Dairy"
   },
   {
@@ -95,7 +105,8 @@
     "title": "Natural Secrets",
     "views": "1.5M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/11.mp4",
+    "videoUrl": "/videos/FeaturedVideos/11.mp4",
+    "thumbnailUrl":"",
     "category": "Personal Care"
   },
   {
@@ -104,7 +115,8 @@
     "title": "Active Comfort",
     "views": "4.7M",
     "duration": "0:20",
-    "thumbnail": "/videos/FeaturedVideos/12.mp4",
+    "videoUrl": "/videos/FeaturedVideos/12.mp4",
+    "thumbnailUrl":"",
     "category": "Apparel"
   },
   {
@@ -113,7 +125,8 @@
     "title": "Secrets of Jeju Island",
     "views": "5.3M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/13.mp4",
+    "videoUrl": "/videos/FeaturedVideos/13.mp4",
+    "thumbnailUrl":"",
     "category": "Beauty"
   },
   {
@@ -122,7 +135,8 @@
     "title": "Plant-Based Nutrition",
     "views": "3.8M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/14.mp4",
+    "videoUrl": "/videos/FeaturedVideos/14.mp4",
+    "thumbnailUrl":"",
     "category": "Wellness"
   },
   {
@@ -131,7 +145,8 @@
     "title": "Elegant Skincare",
     "views": "2.4M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/15.mp4",
+    "videoUrl": "/videos/FeaturedVideos/15.mp4",
+    "thumbnailUrl":"",
     "category": "Cosmetics"
   },
   {
@@ -140,7 +155,8 @@
     "title": "Tech Innovation",
     "views": "1.2M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/16.mp4",
+    "videoUrl": "/videos/FeaturedVideos/16.mp4",
+    "thumbnailUrl":"",
     "category": "Electronics"
   },
   {
@@ -149,7 +165,8 @@
     "title": "Daily Vitality",
     "views": "2.9M",
     "duration": "0:15",
-    "thumbnail": "/videos/FeaturedVideos/17.mp4",
+    "videoUrl": "/videos/FeaturedVideos/17.mp4",
+    "thumbnailUrl":"",
     "category": "Supplements"
   },
   {
@@ -158,7 +175,8 @@
     "title": "Sound of the Streets",
     "views": "9.3M",
     "duration": "0:30",
-    "thumbnail": "/videos/FeaturedVideos/18.mp4",
+    "videoUrl": "/videos/FeaturedVideos/18.mp4",
+    "thumbnailUrl":"",
     "category": "Audio"
   },
   {
@@ -167,7 +185,8 @@
     "title": "Unwind in Style",
     "views": "3.7M",
     "duration": "0:20",
-    "thumbnail": "/videos/FeaturedVideos/19.mp4",
+    "videoUrl": "/videos/FeaturedVideos/19.mp4",
+    "thumbnailUrl":"",
     "category": "Lifestyle"
   }
 ]

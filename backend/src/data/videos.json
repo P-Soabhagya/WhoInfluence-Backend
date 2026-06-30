@@ -1,192 +1,182 @@
 [
   {
     "id": 1,
-    "brand": "Lenskart",
-    "title": "Style Your Vision Campaign",
+     "brand": "Bioderma",
+    "title": "skincare",
     "views": "4.2M",
     "duration": "0:15",
     "videoUrl": "/videos/FeaturedVideos/1.mp4",
     "thumbnailUrl":"",
-    "category": "Eyewear"
-  },
-  {
-    "id": 2,
-    "brand": "OPPO",
-    "title": "Capture Every Moment",
-    "views": "7.8M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/2.mp4",
-    "thumbnailUrl":"",
-    "category": "Tech"
-  },
-  {
-    "id": 3,
-    "brand": "Swiggy",
-    "title": "Craving Satisfied",
-    "views": "5.6M",
-    "duration": "0:20",
-    "videoUrl": "/videos/FeaturedVideos/3.mp4",
-    "thumbnailUrl":"",
-    "category": "Food Delivery"
-  },
-  {
-    "id": 4,
-    "brand": "Foxtale",
-    "title": "Glow Everyday",
-    "views": "3.4M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/4.mp4",
-    "thumbnailUrl":"",
-    "category": "Beauty"
-  },
-  {
-    "id": 5,
-    "brand": "Everteen",
-    "title": "Hygiene First",
-    "views": "2.8M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/5.mp4",
-    "thumbnailUrl":"",
-    "category": "Wellness"
-  },
-  {
-    "id": 6,
-    "brand": "Amazon",
-    "title": "Deliver Happiness",
-    "views": "12.4M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/6.mp4",
-    "thumbnailUrl":"",
-    "category": "E-commerce"
-  },
-  {
-    "id": 7,
-    "brand": "Avimee Herbal",
-    "title": "Nature's Care",
-    "views": "1.9M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/7.mp4",
-    "thumbnailUrl":"",
-    "category": "Haircare"
-  },
-  {
-    "id": 8,
-    "brand": "Bioderma",
-    "title": "Sensibio Protection",
-    "views": "3.1M",
-    "duration": "0:20",
-    "videoUrl": "/videos/FeaturedVideos/8.mp4",
-    "thumbnailUrl":"",
     "category": "Skincare"
   },
   {
-    "id": 9,
-    "brand": "Carbamide Forte",
-    "title": "Pure Nutrition Journey",
-    "views": "2.1M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/9.mp4",
-    "thumbnailUrl":"",
-    "category": "Health"
-  },
-  {
-    "id": 10,
-    "brand": "Country Delight",
-    "title": "Freshness Delivered",
-    "views": "6.2M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/10.mp4",
-    "thumbnailUrl":"",
-    "category": "Dairy"
-  },
-  {
-    "id": 11,
-    "brand": "Neud",
-    "title": "Natural Secrets",
-    "views": "1.5M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/11.mp4",
-    "thumbnailUrl":"",
-    "category": "Personal Care"
-  },
-  {
-    "id": 12,
-    "brand": "ONN",
-    "title": "Active Comfort",
-    "views": "4.7M",
-    "duration": "0:20",
-    "videoUrl": "/videos/FeaturedVideos/12.mp4",
-    "thumbnailUrl":"",
-    "category": "Apparel"
-  },
-  {
-    "id": 13,
-    "brand": "Pilgrim",
-    "title": "Secrets of Jeju Island",
-    "views": "5.3M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/13.mp4",
-    "thumbnailUrl":"",
-    "category": "Beauty"
-  },
-  {
-    "id": 14,
-    "brand": "PLIX",
-    "title": "Plant-Based Nutrition",
-    "views": "3.8M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/14.mp4",
-    "thumbnailUrl":"",
-    "category": "Wellness"
-  },
-  {
-    "id": 15,
-    "brand": "Suroskie",
-    "title": "Elegant Skincare",
-    "views": "2.4M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/15.mp4",
-    "thumbnailUrl":"",
-    "category": "Cosmetics"
-  },
-  {
-    "id": 16,
-    "brand": "UBIQ",
-    "title": "Tech Innovation",
-    "views": "1.2M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/16.mp4",
-    "thumbnailUrl":"",
-    "category": "Electronics"
-  },
-  {
-    "id": 17,
-    "brand": "Pure Nutritions",
-    "title": "Daily Vitality",
-    "views": "2.9M",
-    "duration": "0:15",
-    "videoUrl": "/videos/FeaturedVideos/17.mp4",
-    "thumbnailUrl":"",
-    "category": "Supplements"
-  },
-  {
-    "id": 18,
-    "brand": "boAt",
-    "title": "Sound of the Streets",
-    "views": "9.3M",
-    "duration": "0:30",
-    "videoUrl": "/videos/FeaturedVideos/18.mp4",
-    "thumbnailUrl":"",
-    "category": "Audio"
-  },
-  {
-    "id": 19,
-    "brand": "5:15 PM",
-    "title": "Unwind in Style",
-    "views": "3.7M",
-    "duration": "0:20",
-    "videoUrl": "/videos/FeaturedVideos/19.mp4",
-    "thumbnailUrl":"",
-    "category": "Lifestyle"
-  }
+  "id": 2,
+  "brand": "UBIK",
+  "title": "skincare",
+  "views": "1.2M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/2.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"
+},
+{
+  "id": 3,
+  "brand": "AVIMEE HERBAL",
+  "title": "sunscreen",
+  "views": "2M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/3.mp4",
+  "thumbnailUrl":"",
+  "category": "Sunscreen"
+},
+{
+  "id": 4,
+  "brand": "UBIK",
+  "title": "haircare",
+  "views": "1M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/4.mp4",
+  "thumbnailUrl":"",
+  "category": "Haircare"
+},
+{
+  "id": 5,
+  "brand": "CARBAMIDE FORTE",
+  "title": "skincare",
+  "views": "2.7M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/5.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"
+},
+{
+  "id": 6,
+  "brand": "EVERTEEN",
+  "title": "period panty",
+  "views": "2.3M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/6.mp4",
+  "thumbnailUrl":"",
+  "category": "Period Health"
+},
+{
+  "id": 8,
+  "brand": "NEUD",
+  "title": "sunscreen",
+  "views": "3.3M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/8.mp4",
+  "thumbnailUrl":"",
+  "category": "Sunscreen"
+},
+{
+  "id": 9,
+  "brand": "NEUD",
+  "title": "sunscreen",
+  "views": "1.5M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/9.mp4",
+  "thumbnailUrl":"",
+  "category": "Sunscreen"
+},
+{
+  "id": 10,
+  "brand": "AVIMEE HERBAL",
+  "title": "haircare",
+  "views": "3.7M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/10.mp4",
+  "thumbnailUrl":"",
+  "category": "Haircare"
+},
+{
+  "id": 11,
+  "brand": "AVIMEE HERBAL",
+  "title": "hair oil",
+  "views": "1.2M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/11.mp4",
+  "thumbnailUrl":"",
+  "category": "Hair Oil"
+},
+{
+  "id": 12,
+  "brand": "UBIK",
+  "title": "skincare",
+  "views": "1.2M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/12.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"
+},
+{
+  "id": 13,
+  "brand": "UBIK",
+  "title": "skincare",
+  "views": "4.1M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/13.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"
+},
+{
+  "id": 14,
+  "brand": "EVERTEEN",
+  "title": "period health",
+  "views": "1.8M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/14.mp4",
+  "thumbnailUrl":"",
+  "category": "Period Health"
+},
+{
+  "id": 15,
+  "brand": "AVIMEE HERBAL",
+  "title": "water softener selfcare",
+  "views": "2.8M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/15.mp4",
+  "thumbnailUrl":"",
+  "category": "Selfcare"
+},
+{
+  "id": 16,
+  "brand": "CARBAMIDE FORTE",
+  "title": "foot peeling",
+  "views": "2.1M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/16.mp4",
+  "thumbnailUrl":"",
+  "category": "Foot Care"
+},
+{
+  "id": 17,
+  "brand": "UBIK",
+  "title": "skincare",
+  "views": "1.4M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/17.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"
+},
+{
+  "id": 18,
+  "brand": "NEUD",
+  "title": "sunscreen",
+  "views": "1M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/18.mp4",
+  "thumbnailUrl":"",
+  "category": "Sunscreen"
+},
+{
+  "id": 19,
+  "brand": "BIODERMA",
+  "title": "skincare",
+  "views": "2M",
+  "duration": "0:15",
+  "videoUrl": "/videos/FeaturedVideos/19.mp4",
+  "thumbnailUrl":"",
+  "category": "Skincare"  
+}
 ]

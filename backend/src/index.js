@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const connectDB = require('./config/db');
 
-// Connect to Database
+// Connect to Database 
 connectDB();
 
 // Ensure upload directories exist
